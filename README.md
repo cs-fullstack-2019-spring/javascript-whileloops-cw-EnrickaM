@@ -1,3 +1,5 @@
+### KEY: Good start, but 2 and 3 not complete
+
 # JavaScript-whileloops-cw
 Classwork: JavaScript While/Do While Loops
 
